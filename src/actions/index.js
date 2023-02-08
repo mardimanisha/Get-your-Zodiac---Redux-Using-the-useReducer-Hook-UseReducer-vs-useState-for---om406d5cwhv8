@@ -1,4 +1,3 @@
-
 export const onInputChange=(e)=>{
     return{
         type:"ZODIAC",
